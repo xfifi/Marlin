@@ -1,5 +1,5 @@
 # Marlin 3D Printer Firmware bugfix-2.0.x
-# for JGAurora A5X Stock
+  for JGAurora A5X Stock
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=RCBugFix)](https://travis-ci.org/MarlinFirmware/Marlin)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/2224/badge.svg)](https://scan.coverity.com/projects/2224)
