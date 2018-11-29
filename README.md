@@ -5,7 +5,9 @@ https://github.com/xfifi/Marlin-A5X-Stock/tree/bugfix-2.0.x/Marlin/src/config/ex
 
 The lastest firmware compilation is here : https://github.com/xfifi/Marlin-A5X-Stock/tree/bugfix-2.0.x/Binary%20Builds
 
-
+<br>
+<br>
+<br>
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=RCBugFix)](https://travis-ci.org/MarlinFirmware/Marlin)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/2224/badge.svg)](https://scan.coverity.com/projects/2224)
