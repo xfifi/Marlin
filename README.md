@@ -1,5 +1,12 @@
 # Marlin 3D Printer Firmware bugfix-2.0.x</br>for JGAurora A5X Stock
 
+You can found the both configuration files i've edited for the JGAurora A5X here :
+https://github.com/xfifi/Marlin-A5X-Stock/tree/bugfix-2.0.x/Marlin/src/config/examples/JGAurora/A5X
+
+The lastest firmware compilation is here : https://github.com/xfifi/Marlin-A5X-Stock/tree/bugfix-2.0.x/Binary%20Builds
+
+
+
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=RCBugFix)](https://travis-ci.org/MarlinFirmware/Marlin)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/2224/badge.svg)](https://scan.coverity.com/projects/2224)
 
